@@ -2,7 +2,7 @@
 
 SEO-optimized landing page surfacing verified VenueSumo customer reviews from Capterra, Google, and customer case studies.
 
-**Live target:** [venuesumo.com/reviews](https://www.venuesumo.com/reviews)
+**Live target:** [venuesumo.com/reviews](https://www.venuesumoreviews.com/)
 **Target keyword:** VenueSumo Reviews
 
 ## Files
