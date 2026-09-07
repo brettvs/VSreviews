@@ -18,13 +18,6 @@ The page is a static HTML file. To host it:
 - **Quick test:** open `VenueSumo Reviews (standalone).html` in any browser.
 - **Production:** upload `VenueSumo Reviews.html` + the `assets/` folder to your web host (e.g. Cloudflare Pages, Netlify, S3+CloudFront, or as a page on venuesumo.com). Rename to `index.html` if you want it at the root of a subdomain like `reviews.venuesumo.com`.
 
-## SEO
-
-Includes:
-- Title + meta description + canonical + OG/Twitter tags targeting "VenueSumo Reviews".
-- JSON-LD `SoftwareApplication` + `AggregateRating` (4.9/5, 13 reviews) + 5 sample `Review`s.
-- JSON-LD `FAQPage` with 7 long-tail questions.
-- Semantic `<article>` per review.
 
 ## Reviews
 
